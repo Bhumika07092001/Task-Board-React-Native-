@@ -1,3 +1,8 @@
+## GUI SNAPSHOTS
+1.![WhatsApp Image 2024-04-01 at 19 41 05_d7225289](https://github.com/Bhumika07092001/HyperSrot/assets/109783089/4681f491-aeef-4bd8-b16b-3a7f3588b3b5)
+2.![WhatsApp Image 2024-04-01 at 19 41 05_44677675](https://github.com/Bhumika07092001/HyperSrot/assets/109783089/712eb6d8-357d-4dba-b47a-f600bdc66f73)
+3.![WhatsApp Image 2024-04-01 at 19 41 05_003981e8](https://github.com/Bhumika07092001/HyperSrot/assets/109783089/88872e70-823c-4a4c-8127-1f4eb085bf9d)
+4.![WhatsApp Image 2024-04-01 at 19 41 01_bae2e15d](https://github.com/Bhumika07092001/HyperSrot/assets/109783089/b8c2a498-b16b-4517-a9e2-3551c0e1d6db)
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
